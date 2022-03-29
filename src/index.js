@@ -1,4 +1,4 @@
 // alert("Hello World!");
-import load from "./modules/pageLoad";
+import load from "./modules/page-load";
 
 load();
